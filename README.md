@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai" alt="yenchenglai" /> </p>
 
-- 🔭 I’m currently working on [Angular].(https://github.com/YenChengLai/angular-recipe)
+- 🔭 I’m currently working on Angular.(https://github.com/YenChengLai/angular-recipe)
 
 - 🌱 I’m currently learning **Angular, RxJS, Ramda.**
 
-- 📝 I regulary write articles on [https://medium.com/@frank810618]. (https://medium.com/@frank810618)
+- 📝 I regulary write articles on Medium. (https://medium.com/@frank810618)
 
 - 💬 Ask me about **JavaScript, asynchronous issues, or some other interesting questions about frontend.**
 
