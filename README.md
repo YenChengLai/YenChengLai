@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Angular.(https://github.com/YenChengLai/angular-recipe)
 
-- 🌱 I’m currently learning **Angular, RxJS, Ramda.**
+- 🌱 I’m currently learning **Angular, RxJS, Ramda, and React.**
 
 - 📝 I regulary write articles on Medium. (https://medium.com/@frank810618)
 
