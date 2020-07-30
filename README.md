@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai" alt="yenchenglai" /> </p>
 
-- 🔭 I’m currently working on Angular.(https://github.com/YenChengLai/angular-recipe)
+- 🔭 I’m currently working on Angular.(https://ng-recipe-6cb45.web.app/auth)
 
 - 🌱 I’m currently learning **Angular, RxJS, Ramda, and React.**
 
