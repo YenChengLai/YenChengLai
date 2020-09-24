@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai" alt="yenchenglai" /> </p>
 
-- 🔭 I’m currently working on RxJS.
+- 🔭 I’m currently working on design patterns.
 
-- 🌱 I’m currently learning **React, RxJS, Docker, and Kubernetes.**
+- 🌱 I’m currently learning **React, RxJS, Design Patterns, and Kubernetes.**
 
 - 📝 I regulary write articles on Medium. (https://medium.com/@frank810618)
 
