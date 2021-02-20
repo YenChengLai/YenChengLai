@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Unit tests**
 
-- 🌱 I’m currently learning **Unit tests, React, Design Patterns, and Kubernetes.**
+- 🌱 I’m currently learning **Unit tests, Spring, Design Patterns, and Kubernetes.**
 
 - 📝 I regularly write articles on Medium [https://medium.com/@frank810618](https://medium.com/@frank810618)
 
