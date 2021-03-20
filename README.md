@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai&label=Profile%20views&color=0e75b6&style=flat" alt="yenchenglai" /> </p>
 
-- 🔭 I’m currently working on **Unit tests**
+- 🔭 I’m currently working on **Spring**
 
 - 🌱 I’m currently learning **Unit tests, Spring, Design Patterns, and Kubernetes.**
 
 - 📝 I regularly write articles on Medium [https://medium.com/@frank810618](https://medium.com/@frank810618)
 
-- 💬 Ask me about **JavaScript, microservice, or system architecture**
+- 💬 Ask me about **OOP, microservices, or system architecture**
 
 - 📫 How to reach me **frank810618@gmail.com**
 
