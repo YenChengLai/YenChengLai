@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **OOP, microservices, or system architecture**
 
-- 📫 How to reach me **frank810618@gmail.com**
+- 📫 How to reach me **yclai@uw.edu**
 
 <br>
 <h3 align="center">Connect with me:</h3>
