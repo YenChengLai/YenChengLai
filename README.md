@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai&label=Profile%20views&color=0e75b6&style=flat" alt="yenchenglai" /> </p>
 
-- 🔭 I’m currently working on **Spring**
+- 🔭 I’m currently working on **Data structure & Algorithm**
 
 - 🌱 I’m currently learning **Unit tests, Spring, Design Patterns, and Kubernetes.**
 
