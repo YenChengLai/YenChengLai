@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai&label=Profile%20views&color=0e75b6&style=flat" alt="yenchenglai" /> </p>
 
-- 🔭 I’m currently working on **Data structure & Algorithm**
+- 🔭 I’m currently working on **Python & React**
 
-- 🌱 I’m currently learning **Unit tests, Spring, Design Patterns, and Kubernetes.**
+- 🌱 I’m currently learning **Unit tests, React, Info Architecture, and Python.**
 
 - 📝 I regularly write articles on Medium [https://medium.com/@frank810618](https://medium.com/@frank810618)
 
-- 💬 Ask me about **OOP, microservices, or system architecture**
+- 💬 Ask me about **OOP, microservices, or info architecture**
 
 - 📫 How to reach me **yclai@uw.edu**
 
