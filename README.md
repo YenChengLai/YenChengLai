@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Unit tests, React, Info Architecture, and Python.**
 
-- 📝 I regularly write articles on Medium [https://medium.com/@frank810618](https://medium.com/@frank810618)
-
 - 💬 Ask me about **OOP, microservices, or info architecture**
 
 - 📫 How to reach me **yclai@uw.edu**
