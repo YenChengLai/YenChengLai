@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yen Cheng. You may also call me Frank.</h1>
+<h1 align="center">Hi 👋, I'm Yen Cheng.</h1>
 <h3 align="center">A software engineer focuses on diving into knowledges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenchenglai&label=Profile%20views&color=0e75b6&style=flat" alt="yenchenglai" /> </p>
