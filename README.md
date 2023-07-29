@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **OOP, microservices, or info architecture**
 
-- 📫 How to reach me **yclai@uw.edu**
+- 📫 How to reach me **yenchenglai0618@gmail.com**
 
 <br>
 <h3 align="center">Connect with me:</h3>
